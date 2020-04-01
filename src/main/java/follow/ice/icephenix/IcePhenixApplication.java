@@ -1,4 +1,4 @@
-package follow.ice.ice_phenix;
+package follow.ice.icephenix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

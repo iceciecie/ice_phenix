@@ -1,4 +1,4 @@
-package follow.ice.ice_phenix;
+package follow.ice.icephenix;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
